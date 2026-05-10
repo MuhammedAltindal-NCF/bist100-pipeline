@@ -1,0 +1,17 @@
+[
+  "return_5d",
+  "return_20d",
+  "volatility_20d",
+  "volume_ratio_20d",
+  "price_to_ma20",
+  "price_to_ma50",
+  "usdtry_return_20d",
+  "bist100_return_20d",
+  "volume",
+  "usdtry",
+  "market_cap_mn_tl",
+  "market_cap_mn_usd",
+  "free_float_market_cap_mn_tl",
+  "free_float_market_cap_mn_usd",
+  "capital_mn_tl"
+]
