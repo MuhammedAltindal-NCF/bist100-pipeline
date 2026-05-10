@@ -28,7 +28,7 @@ This application is intended as a baseline academic predictive analytics system 
 Live Streamlit URL:
 
 ```text
-ADD_STREAMLIT_APP_URL_HERE
+https://bist100-pipeline.streamlit.app/
 
 ## Repository Structure
 
